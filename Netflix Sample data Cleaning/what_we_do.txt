@@ -1,0 +1,27 @@
+teps for Data Analysis
+
+1. Load the data
+
+Read the CSV file using pandas.
+
+2. Clean the data
+
+Handle missing values, remove duplicates, fix columns if needed.
+
+3. Understand the data
+
+Use head(), info(), describe() to explore the dataset.
+
+4. Identify questions to answer
+
+What do we want to know? (e.g., Movies vs TV Shows, content ratings, etc.)
+
+5. Visualize the data (EDA)
+
+Use Matplotlib to draw charts and answer these questions visually.
+
+6. Save the plots
+
+Use plt.savefig() to save the plots.
+
+👉 Do you want me to create a ready Python notebook script that follows these exact steps using the Netflix sample dataset I made for you?

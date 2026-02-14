@@ -1,0 +1,31 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration
+s1,Movie,Title 21,Director 15,"Actor 29, Actor 30",Canada,2021-07-26,2017,PG-13,120 min
+s2,TV Show,Title 33,Director 7,"Actor 41, Actor 42",Japan,2021-01-15,2017,TV-MA,2 Seasons
+s3,Movie,Title 12,Director 12,"Actor 47, Actor 48",India,2021-12-12,2001,U/A,135 min
+s4,Movie,Title 22,Director 8,"Actor 49, Actor 50",United States,2021-02-11,2001,R,140 min
+s5,Movie,Title 44,Director 15,"Actor 25, Actor 26",Canada,2021-06-28,2009,PG,95 min
+s6,TV Show,Title 25,Director 3,"Actor 17, Actor 18",Germany,2021-03-04,2019,TV-14,1 Season
+s7,Movie,Title 49,Director 14,"Actor 29, Actor 30",Germany,2021-12-18,2019,PG-13,110 min
+s8,Movie,Title 27,Director 17,"Actor 25, Actor 26",South Korea,2021-08-19,2000,R,150 min
+s9,Movie,Title 42,Director 4,"Actor 1, Actor 2",Canada,2021-08-29,2021,U/A,100 min
+s10,TV Show,Title 28,Director 18,"Actor 49, Actor 50",Brazil,2021-02-21,2015,TV-MA,3 Seasons
+s11,Movie,Title 16,Director 8,"Actor 13, Actor 14",United Kingdom,2021-04-06,2012,PG-13,125 min
+s12,Movie,Title 15,Director 4,"Actor 17, Actor 18",Japan,2021-08-10,2017,U/A,105 min
+s13,Movie,Title 47,Director 2,"Actor 47, Actor 48",Canada,2021-08-19,2014,PG,115 min
+s14,Movie,Title 44,Director 6,"Actor 1, Actor 2",South Korea,2021-08-25,1996,R,145 min
+s15,TV Show,Title 3,Director 10,"Actor 23, Actor 24",United Kingdom,2021-05-23,2019,TV-14,2 Seasons
+s16,Movie,Title 37,Director 4,"Actor 15, Actor 16",United Kingdom,2021-06-20,1990,U,90 min
+s17,TV Show,Title 7,Director 18,"Actor 47, Actor 48",United States,2021-01-29,1990,TV-MA,6 Seasons
+s18,TV Show,Title 21,Director 12,"Actor 21, Actor 22",United Kingdom,2021-02-05,2014,TV-14,1 Season
+s19,TV Show,Title 9,Director 2,"Actor 37, Actor 38",Brazil,2021-01-13,2016,TV-MA,2 Seasons
+s20,Movie,Title 39,Director 10,"Actor 33, Actor 34",Germany,2021-06-09,2019,PG-13,130 min
+s21,TV Show,Title 18,Director 4,"Actor 15, Actor 16",South Korea,2021-11-23,2014,TV-14,2 Seasons
+s22,Movie,Title 4,Director 14,"Actor 5, Actor 6",United Kingdom,2021-07-06,2009,PG,105 min
+s23,TV Show,Title 25,Director 16,"Actor 5, Actor 6",United States,2021-08-31,2002,TV-PG,4 Seasons
+s24,TV Show,Title 14,Director 15,"Actor 1, Actor 2",Brazil,2021-03-27,1998,TV-MA,5 Seasons
+s25,TV Show,Title 50,Director 8,"Actor 9, Actor 10",India,2021-10-11,1992,TV-14,1 Season
+s26,TV Show,Title 9,Director 14,"Actor 19, Actor 20",Germany,2021-03-07,1996,TV-PG,3 Seasons
+s27,TV Show,Title 26,Director 8,"Actor 13, Actor 14",Germany,2021-06-19,1995,TV-MA,7 Seasons
+s28,TV Show,Title 2,Director 16,"Actor 17, Actor 18",South Korea,2021-02-14,1997,TV-14,2 Seasons
+s29,TV Show,Title 20,Director 13,"Actor 13, Actor 14",Germany,2021-03-03,2016,TV-MA,3 Seasons
+s30,TV Show,Title 28,Director 18,"Actor 17, Actor 18",United Kingdom,2021-05-14,1998,TV-14,6 Seasons
